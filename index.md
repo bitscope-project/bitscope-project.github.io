@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to BITSCOPE project page
 
-You can use the [editor on GitHub](https://github.com/bitscope-project/bitscope-project.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This website is dedicated to the BITSCOPE project. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tomas the coordintor has a lot to do as he must fill up this website with lots of lovely content. Lets hope he does it ;)
 
-### Markdown
+### Lucky
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Github pages is excellent. I am glad I came across it.
 
 ```markdown
 Syntax highlighted code block
